@@ -1,0 +1,8 @@
+{
+    "name": "Better-Plates",
+    "version": "1.0.0",
+    "main": "src/mod.js",
+    "license": "MIT",
+    "author": "PJ568",
+    "akiVersion": "~3.8"
+}
